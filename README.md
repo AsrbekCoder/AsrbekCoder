@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<img src="./file/1.jpg" alt="banner that says Asrbek - software engineer, content creator and community organizer alongside a cartoon illustration of Asrbek">
+<img src="./file/1.jpg" alt="banner that says Asrbek - Frontend developer, content creator and community organizer alongside a cartoon illustration of Asrbek">
 <i><b>I'm a software engineer still 1 year, who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, NodeJs, ExpressJs, WebSocket(JavaScript, APIs + Markup) ,GraphQL and other...</b></i>
 <br/>
 <br/>
@@ -36,6 +36,14 @@
 
 <br>
 <br>
+<code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" width="21px" height="21px"></code> - `Vs Code` |
+<code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg"           width="21px" height="21px"></code> - `Git` |
+
+<code><img alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" width="21px" height="21px"></code> - `Powershell` |
+<code><img alt="webstorm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" width="21px" height="21px"></code> - `WebStorm` |
+
+<br>
+
 <br>
 
 [![Activity graph](https://activity-graph.herokuapp.com/graph?username=AsrbekCoder&bg_color=000000&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/AsrbekCoder)
