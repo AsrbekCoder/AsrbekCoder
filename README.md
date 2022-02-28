@@ -67,6 +67,6 @@ My programming <b>Tools: </b>
 <br/>
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/AsrbekCoder.gif?z=6)](https://github4life.herokuapp.com/AsrbekCoder)
-
+https://stand.hitplayer.ru/?s=sharipov%20azamat
 <br/>
 <br/>
