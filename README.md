@@ -4,7 +4,7 @@
 </h1>
 
 <img src="./file/1.jpg" alt="banner that says Asrbek - Frontend developer, content creator and community organizer alongside a cartoon illustration of Asrbek">
-<i><b>Hi there! 👋 I'm a Full Stack wizard with 4 years of experience, conjuring code to make open-source contributions as easy as a flick of the wand. My passion? Building tech that doesn’t just elevate people—it makes them want to dance! 💃🕺 Whether I'm taming ReactJS dragons, herding NodeJS gnomes, or spinning webs with WebSocket, I’m all about bringing magic to the digital world. I also dabble in the dark arts of computer vision, TensorFlow, and AI engineering. Let’s build, laugh, and code like there’s no bug in sight! 🚀✨</b></i>
+<i><b>Hi there! 👋 I'm a Full Stack wizard with 5 years of experience, conjuring code to make open-source contributions as easy as a flick of the wand. My passion? Building tech that doesn’t just elevate people—it makes them want to dance! 💃🕺 Whether I'm taming ReactJS dragons, herding NodeJS gnomes, or spinning webs with WebSocket, I’m all about bringing magic to the digital world. I also dabble in the dark arts of computer vision, TensorFlow, and AI engineering. Let’s build, laugh, and code like there’s no bug in sight! 🚀✨</b></i>
 Telegram: https://t.me/coder_FS
 <br/>
 <br/>
