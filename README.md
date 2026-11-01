@@ -68,14 +68,11 @@ const asrbek = {
   </a>
 </p>
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
-## 🐍 Contribution snake
+<!-- ═══════════════ TERMINAL ═══════════════ -->
+## 💻 Live terminal
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsrbekCoder/AsrbekCoder/output/github-snake-dark.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AsrbekCoder/AsrbekCoder/output/github-snake.svg" />
-  </picture>
+  <img src="./file/terminal.svg" width="100%" alt="animated terminal: whoami, cat now.txt, npm run magic"/>
 </p>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
