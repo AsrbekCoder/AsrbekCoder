@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="360" viewBox="0 0 860 360">
+  <style>
+    .win  { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+    .bar  { fill: #161b22; }
+    .t    { font: 600 15px 'Fira Code', 'JetBrains Mono', Consolas, monospace; fill: #c9d1d9; white-space: pre; }
+    .p    { fill: #36bcf7; }
+    .g    { fill: #3fb950; }
+    .y    { fill: #e3b341; }
+    .m    { fill: #d2a8ff; }
+    .dim  { fill: #8b949e; }
+    .title{ font: 500 13px -apple-system, 'Segoe UI', sans-serif; fill: #8b949e; }
+
+    /* har bir qator ketma-ket chiqadi, 16 soniyalik aylana */
+    .l { opacity: 0; animation: show 16s infinite; }
+    @keyframes show { 0%{opacity:0} 2%{opacity:1} 94%{opacity:1} 98%{opacity:0} 100%{opacity:0} }
+
+
+    .cursor { animation: blink 1s step-end infinite; fill: #36bcf7; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <defs>
+    <clipPath id="c1"><rect x="40" y="70" height="24" width="0"><animate attributeName="width" values="0;420;420" keyTimes="0;0.06;1" dur="16s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="40" y="160" height="24" width="0"><animate attributeName="width" values="0;420;420" keyTimes="0;0.06;1" dur="16s" begin="2.4s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect x="40" y="250" height="24" width="0"><animate attributeName="width" values="0;420;420" keyTimes="0;0.06;1" dur="16s" begin="5.4s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <!-- oyna -->
+  <rect class="win" x="1" y="1" width="858" height="358" rx="12"/>
+  <path class="bar" d="M13 1 h834 a12 12 0 0 1 12 12 v27 h-858 v-27 a12 12 0 0 1 12 -12z"/>
+  <circle cx="26" cy="21" r="6.5" fill="#ff5f57"/>
+  <circle cx="48" cy="21" r="6.5" fill="#febc2e"/>
+  <circle cx="70" cy="21" r="6.5" fill="#28c840"/>
+  <text class="title" x="430" y="26" text-anchor="middle">asrbek@uzbekistan: ~ — zsh</text>
+
+  <!-- 1: whoami -->
+  <g clip-path="url(#c1)">
+    <text class="t" x="40" y="88"><tspan class="p">➜</tspan> <tspan class="g">~</tspan> whoami</text>
+  </g>
+  <text class="t l" x="40" y="116" style="animation-delay:1.2s">Asrbek — Full Stack wizard 🧙 &amp; AI Engineer 🤖</text>
+  <text class="t l dim" x="40" y="140" style="animation-delay:1.8s">5+ years · React · Node.js · WebSocket · TensorFlow</text>
+
+  <!-- 2: skills -->
+  <g clip-path="url(#c2)">
+    <text class="t" x="40" y="178"><tspan class="p">➜</tspan> <tspan class="g">~</tspan> cat now.txt</text>
+  </g>
+  <text class="t l" x="40" y="206" style="animation-delay:3.6s"><tspan class="y">🚆</tspan> AI unit @ O'zbekiston temir yo'llari</text>
+  <text class="t l" x="40" y="230" style="animation-delay:4.4s"><tspan class="m">🥈</tspan> 2nd place — National AI Hackathon (captain, «Uzprogers»)</text>
+
+  <!-- 3: run -->
+  <g clip-path="url(#c3)">
+    <text class="t" x="40" y="268"><tspan class="p">➜</tspan> <tspan class="g">~</tspan> npm run magic</text>
+  </g>
+  <text class="t l g" x="40" y="296" style="animation-delay:6.6s">✔ Building tech that makes people dance 💃🕺</text>
+  <text class="t l" x="40" y="322" style="animation-delay:7.6s"><tspan class="p">➜</tspan> <tspan class="g">~</tspan> <tspan class="cursor">▋</tspan></text>
+</svg>
